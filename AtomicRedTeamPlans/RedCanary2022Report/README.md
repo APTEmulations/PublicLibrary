@@ -18,10 +18,10 @@ It requires a copy and paste, and will provide a real feel for how atomics work.
 <br> By:🦄@jorgeorchilles & 🦄 @securepeacock
 
 Resources:
-https://www.youtube.com/watch?v=iNl_rltYmoo&list=PL92eUXSF717XLqkiCitdSZSUijwdDsM20
-https://www.youtube.com/watch?v=RRq8jqFY6ts&list=PLkTApXQou_8Jo2B27kq62Md4bypcBqBAw&t=3s
-https://www.youtube.com/watch?v=eHZEyEf_icE
-https://www.youtube.com/watch?v=qKibglXQzdI
+<br>https://www.youtube.com/watch?v=iNl_rltYmoo&list=PL92eUXSF717XLqkiCitdSZSUijwdDsM20
+<br>https://www.youtube.com/watch?v=RRq8jqFY6ts&list=PLkTApXQou_8Jo2B27kq62Md4bypcBqBAw&t=3s
+<br>https://www.youtube.com/watch?v=eHZEyEf_icE
+<br>https://www.youtube.com/watch?v=qKibglXQzdI
 
 Be sure to check out the main read.me for more resources.
 <br> It is our goal to maintain accuracy, credit authors, and serve the public.
