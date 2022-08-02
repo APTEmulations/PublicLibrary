@@ -17,6 +17,12 @@ It requires a copy and paste, and will provide a real feel for how atomics work.
 <br> [Operationalizing Red Canarys 2022 Threat Detection Report](https://www.scythe.io/library/operationalizing-red-canarys-2022-threat-detection-report)
 <br> By:🦄@jorgeorchilles & 🦄 @securepeacock
 
+Resources:
+https://www.youtube.com/watch?v=iNl_rltYmoo&list=PL92eUXSF717XLqkiCitdSZSUijwdDsM20
+https://www.youtube.com/watch?v=RRq8jqFY6ts&list=PLkTApXQou_8Jo2B27kq62Md4bypcBqBAw&t=3s
+https://www.youtube.com/watch?v=eHZEyEf_icE
+https://www.youtube.com/watch?v=qKibglXQzdI
+
 Be sure to check out the main read.me for more resources.
 <br> It is our goal to maintain accuracy, credit authors, and serve the public.
 <br> If you find any mistakes or have suggestions for this library entry, please contact us on twitter @AptEmulations. 
