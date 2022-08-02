@@ -20,8 +20,8 @@ It requires a copy and paste, and will provide a real feel for how atomics work.
 Resources:
 <br>[How to Use Atomic Red Team Tests](https://www.youtube.com/watch?v=iNl_rltYmoo&list=PL92eUXSF717XLqkiCitdSZSUijwdDsM20)
 <br>[What is ATT&CK Coverage Anyway? Breadth and Depth Analysis w/ Atomic Red Team](https://www.youtube.com/watch?v=RRq8jqFY6ts&list=PLkTApXQou_8Jo2B27kq62Md4bypcBqBAw&t=3s)
-<br>https://www.youtube.com/watch?v=eHZEyEf_icE
-<br>https://www.youtube.com/watch?v=qKibglXQzdI
+<br>[BHIS | Atomic Red Team: Hands-on Getting Started Guide] (https://www.youtube.com/watch?v=eHZEyEf_icE)  @OrOneEqualsOne @BHinfoSecurity
+<br>[Atomic Friday: Invoke-AtomicRedTeam](https://www.youtube.com/watch?v=qKibglXQzdI) @redcanary @OrOneEqualsOne
 
 Be sure to check out the main read.me for more resources.
 <br> It is our goal to maintain accuracy, credit authors, and serve the public.
