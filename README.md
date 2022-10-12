@@ -1,6 +1,6 @@
 # PublicLibrary
-<b>We operationalize publicly available reports and intel to craft emulation plans for defenders. </b>
-- Many of our plans can be used by teams of all sizes. We especially want to provide support for service providers such as MSP's. SMBs / SMEs / and Micro Businesses need more advanced defenses. They also need guidance. We hope this public library will empower them. Our plans that use [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team "Atomic Red   Team Github") are especially useful, everything you need is free/open-source. 
+<b>Operationalizing publicly available reports and intel to craft emulation plans for defenders. </b>
+- Many of the plans can be used by teams of all sizes. We especially want to provide support for service providers such as MSP's. SMBs / SMEs / and Micro Businesses need more advanced defenses. They also need guidance. We hope this public library will empower them. Plans that use [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team "Atomic Red   Team Github") are especially useful, everything you need is free/open-source. 
 - Enterprises and mature security teams can greatly benefit from these plans as well.
 Mitre ATT&CK is utilized and our plans map to the framework.
 
