@@ -15,7 +15,7 @@ Resources:
 - [Living Off The Land Binaries](https://lolbas-project.github.io/)
 
 - 👀 I’m interested in Adversary Emulation
-- 📫 How to reach me @DragosLMalfoy
+- 📫 How to reach me @DLLpwns
 
 Research partnership with DFIRSEC
 
