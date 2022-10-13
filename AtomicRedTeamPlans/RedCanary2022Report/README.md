@@ -25,6 +25,5 @@ Resources:
 
 Be sure to check out the main read.me for more resources.
 <br> It is our goal to maintain accuracy, credit authors, and serve the public.
-<br> If you find any mistakes or have suggestions for this library entry, please contact us on twitter @AptEmulations. 
+<br> If you find any mistakes or have suggestions for this library entry, please contact us on twitter @DLLpwns. 
 Take care. 
--DFIRSEC Team.
